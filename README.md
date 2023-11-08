@@ -1,12 +1,2 @@
 # Advance-Python-Programs
-My knowledge in python includes
-Lists
-Tuples
-Strings
-Numbers
-Dictionaries
-Sets
-Functions
-Classes
-Numpy
-Pandas
+Above are the programs of different data structures and algorithms
